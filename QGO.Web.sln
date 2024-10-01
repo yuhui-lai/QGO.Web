@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35309.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QGO.Web", "QGO.Web\QGO.Web.csproj", "{3FD9F989-A76F-4D20-8390-E79F6C964881}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QGO.Web.Lib", "QGO.Web.Lib\QGO.Web.Lib.csproj", "{2FA0B541-F6B6-4DD0-A947-D63FA70B77EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FD9F989-A76F-4D20-8390-E79F6C964881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FD9F989-A76F-4D20-8390-E79F6C964881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FD9F989-A76F-4D20-8390-E79F6C964881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FD9F989-A76F-4D20-8390-E79F6C964881}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA0B541-F6B6-4DD0-A947-D63FA70B77EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA0B541-F6B6-4DD0-A947-D63FA70B77EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA0B541-F6B6-4DD0-A947-D63FA70B77EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA0B541-F6B6-4DD0-A947-D63FA70B77EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4F6706F-477E-4B7D-AB58-EA9AB8C8FBB7}
+	EndGlobalSection
+EndGlobal
